@@ -153,7 +153,7 @@ Suitable for:
 
 ## 👨‍💻 Author
 
-Developed by: **Sai**  
+Developed by: **Sai & Team**  
 Domain: Web Development (PHP & MySQL)
 
 ---
